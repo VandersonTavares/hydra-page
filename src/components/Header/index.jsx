@@ -4,7 +4,7 @@ export const Header = () => {
   const liStyle = "uppercase text-[#FFFFFF] font-bold mr-10";
 
   const buttonStyle =
-    "w-[150px] text-sm font-body font-bold uppercase rounded-[20px] px-[25px] py-[7px] bg-gradient-to-r from-[#8176AF] to-[#C0B7E8]";
+    "w-[150px] text-sm font-body font-bold uppercase rounded-[20px] px-[25px] py-[7px] bg-gradient-to-r from-[#8176AF] to-[#C0B7E8] mr-[50px]";
 
   return (
     // header

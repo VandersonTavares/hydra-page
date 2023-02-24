@@ -7,7 +7,15 @@ module.exports = {
     extend: {
       fontFamily : {
         body: ['Montserrat']
+      },
+      fontWeight: {
+        bold: 700,
+        regular: 400
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       }
+
     },
   },
   plugins: [],
